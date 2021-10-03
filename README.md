@@ -1,3 +1,3 @@
 ##LeetCode
 
-[Code Time] (https://www.geeksforgeeks.org/)
+[Code Time](https://www.geeksforgeeks.org/)
